@@ -1,4 +1,4 @@
 # ETL
 
-##DataScience
-##Gustavo Felipe Lucio
+DataScience
+Gustavo Felipe Lucio
