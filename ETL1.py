@@ -10,7 +10,7 @@ import pandas as pd
 #Dictionary com a config do banco para conexão
 config = {
     'user':'root',
-    'password':'cp1145rmce2',
+    'password':' ',
     'host': 'localhost',
     'database':'dw_inep',
     'port': '3306'
